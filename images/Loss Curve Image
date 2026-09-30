@@ -1,0 +1,4 @@
+from IPython.display import Image, display
+
+
+display(Image(filename='trainingloss.png', width=600))
