@@ -26,15 +26,6 @@ Evaluated on a fixed 80/20 train/test split. The test set was never used for tra
 | Spam recall | _TODO_ |
 | Spam F1 | _TODO_ |
 
-### Figures
-
-**Training loss** (falls smoothly from about 0.18 to near 0 over 10 epochs):
-
-![Training loss](images/loss_curve.png)
-
-**Confusion matrix** on the test set:
-
-![Confusion matrix](images/confusion_matrix.png)
 
 ## How it works
 
