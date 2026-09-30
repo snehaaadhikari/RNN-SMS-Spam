@@ -1,0 +1,17 @@
+#Python
+__pycache__/
+*.pyc
+
+#Jupyter
+.ipynb_checkpoints/
+
+#Environments
+venv/
+.env
+
+#Large or generated files
+*.pt
+data/
+
+#OS files
+.DS_Store
