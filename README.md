@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-LSTM-red)
 
-A recurrent neural network (LSTM) that reads a text message one word at a time and classifies it as **spam** or **ham** (not spam). Built from scratch in PyTorch, with no pretrained models, as part of the TECH 405 RNN Hackathon.
+A recurrent neural network (LSTM) that reads a text message one word at a time and classifies it as **spam** or **ham** (not spam). Built from scratch in PyTorch, with no pretrained models
 
 ## Why a sequence model?
 
